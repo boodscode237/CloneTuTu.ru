@@ -10,7 +10,7 @@ val serviceTypes = listOf(
     ServiceType(4, "Electric Trains", R.drawable.electotrain),
     ServiceType(5, "Auto buses", R.drawable.autobuse),
     ServiceType(6, "Tours", R.drawable.tree),
-    ServiceType(7, "Adventure", R.drawable.change),
+    ServiceType(7, "Adventures", R.drawable.change),
     ServiceType(8, "Mission", R.drawable.mission),
     ServiceType(9, "Aero express", R.drawable.star),
 )

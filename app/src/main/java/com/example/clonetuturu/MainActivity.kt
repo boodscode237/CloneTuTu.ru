@@ -49,13 +49,3 @@ fun TutuHomeScreen(){
     }
 }
 
-
-
-
-@Preview(showBackground = true)
-@Composable
-fun DefaultPreview() {
-    CloneTuTuruTheme {
-        TutuHomeScreen()
-    }
-}

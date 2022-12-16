@@ -102,7 +102,7 @@ fun HomeScreen() {
                         Spacer(modifier = Modifier.width(10.dp))
                         Text(text = buildAnnotatedString {
                             withStyle(style = SpanStyle(fontWeight = FontWeight.ExtraBold)){
-                                append("Tutu.ru - The Number 1\ntraveling service in Russia\n")
+                                append("Tuttu.ru - The Number 1\ntraveling service in Russia\n")
                             }
                             withStyle(style = SpanStyle(color = Color.Gray)){
                                 append("According to SimilarWeb, 2020")
